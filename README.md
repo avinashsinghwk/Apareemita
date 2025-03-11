@@ -1,11 +1,10 @@
 # Apareemita Humanitarians Association
 
+Apareemita Humanitarians Association is a non-profit organization based in New Delhi, India. Our mission is to create an inclusive society where marginalized communities receive the support, resources, and opportunities they deserve. We focus on empowering women, supporting LGBTQ+ individuals, and rehabilitating sex workers by providing financial aid, vocational training, healthcare access, and educational resources.
+
 ## Embrace Difference To Empower Excellence
 
 **Uplifting, empowering, and transforming lives of women, transgender individuals, and sex workers in India, while fostering a healthier environment for future generations.**
-
-## About Us
-Apareemita Humanitarians Association is a non-profit organization based in New Delhi, India. Our mission is to create an inclusive society where marginalized communities receive the support, resources, and opportunities they deserve. We focus on empowering women, supporting LGBTQ+ individuals, and rehabilitating sex workers by providing financial aid, vocational training, healthcare access, and educational resources.
 
 ## Our Initiatives
 
@@ -26,8 +25,13 @@ Apareemita Humanitarians Association is a non-profit organization based in New D
 
 ## Contact Us
 📞 **+91 8285255481**  
+
 📞 **+91 8709837599**  
+
 📧 **apareemitahumanitarians@gmail.com**  
+
+🌐 [**Visit Our Website**](https://apareemita.netlify.app)
+
 📍 **New Delhi, India**
 
 ## Support Us
