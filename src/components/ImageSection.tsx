@@ -4,14 +4,14 @@ export function ImageSection() {
       <div className="flex flex-col sm:flex-row gap-6 w-full">
         <div className="w-full sm:w-1/2">
           <img
-            src="/photo5.jpg"
+            src="/photo1.jpeg"
             alt="collage1"
             className="rounded-xl shadow-md object-cover sm:h-96 w-full"
           />
         </div>
         <div className="flex flex-col justify-between w-full sm:w-1/2">
           <img
-            src="/photo2.jpg"
+            src="/photo2.jpeg"
             alt="pubic interaction"
             className="rounded-xl shadow-md object-cover h-40 sm:h-40 w-full"
           />
@@ -31,14 +31,14 @@ export function ImageSection() {
             className="rounded-xl shadow-md object-cover h-40 sm:h-40 w-full"
           />
           <img
-            src="/photo6.jpg"
+            src="/photo6.jpeg"
             alt="Community support"
             className="rounded-xl shadow-md object-cover hidden sm:block sm:h-48 w-full"
           />
         </div>
         <div className="w-full sm:w-1/2">
           <img
-            src="/photo1.jpg"
+            src="/photo5.jpeg"
             alt="collage2"
             className="rounded-xl shadow-md object-cover sm:h-96 w-full"
           />

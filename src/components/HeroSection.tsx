@@ -5,7 +5,7 @@ export function HeroSection(){
     return <header className="relative h-screen">
     <div className="absolute inset-0">
       <img
-        src="/kids.jpg"
+        src="/kids.jpeg"
         alt="Diverse group of people"
         className="w-full h-full object-cover"
       />

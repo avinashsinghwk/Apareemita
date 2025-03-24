@@ -27,10 +27,10 @@ export function Footer(){
         <div>
           <h4 className="font-semibold mb-4">Follow Us</h4>
           <div className="flex space-x-4">
-            <a href="https://facebook.com" className="hover:text-pink-300"><Facebook size={24} /></a>
-            <a href="https://x.com" className="hover:text-pink-300"><Twitter size={24} /></a>
-            <a href="https://www.linkedin.com/company/apareemita-humanitarians-association/" className="hover:text-pink-300"><Linkedin size={24} /></a>
-            <a href="https://www.instagram.com/apareemita_ha21/?igsh=MXJpN3ZzeTMzY2IzeA%3D%3D" className="hover:text-pink-300"><Instagram size={24} /></a>
+            <a target="_blank" href="https://www.facebook.com/people/Apareemita-Humanitarian/pfbid0FjzZdeo8ABbukQWqs9QoSx1dzBLEKzERdJ8E8rTsR9HMyfgzD2JiDBbri828urm9l/" className="hover:text-pink-300"><Facebook size={24} /></a>
+            <a target="_blank" href="https://x.com" className="hover:text-pink-300"><Twitter size={24} /></a>
+            <a target="_blank" href="https://www.linkedin.com/company/apareemita-humanitarians-association/" className="hover:text-pink-300"><Linkedin size={24} /></a>
+            <a target="_blank" href="https://www.instagram.com/apareemita_ha21/?igsh=MXJpN3ZzeTMzY2IzeA%3D%3D" className="hover:text-pink-300"><Instagram size={24} /></a>
           </div>
         </div>
       </div>

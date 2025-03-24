@@ -8,7 +8,7 @@ const NavBar = () => {
     <nav className="w-full relative z-50 flex justify-between items-center px-6 lg:px-20 py-4 bg-black/20 backdrop-blur-md">
       <a className="cursor-pointer" href="/">
         <div className="flex items-center gap-2">
-          <img src="/logo.png" alt="Apareemita Logo" className="h-12 w-auto" />
+          <img src="/logo.jpeg" alt="Apareemita Logo" className="h-12 w-auto rounded-full" />
           <h1 className="text-white text-2xl font-bold">Apareemita</h1>
         </div>
       </a>
@@ -19,7 +19,7 @@ const NavBar = () => {
         <a href="#programs" className="text-white hover:text-pink-400">Programs</a>
         <a href="#impact" className="text-white hover:text-pink-400">Impact</a>
         <a href="#team" className="text-white hover:text-pink-400">Team</a>
-        <button className="cursor-pointer bg-pink-500 text-white px-6 py-2 rounded-full hover:bg-pink-600">
+        <button className="cursor-pointer bg-pink-600 text-white px-6 py-2 rounded-full hover:bg-pink-700">
           Donate
         </button>
       </div>
@@ -40,7 +40,7 @@ const NavBar = () => {
           <a href="#impact" className="text-white hover:text-pink-400" onClick={() => setIsOpen(false)}>Impact</a>
           <a href="#team" className="text-white hover:text-pink-400" onClick={() => setIsOpen(false)}>Team</a>
           <button 
-            className="bg-pink-500 text-white px-6 py-2 rounded-full hover:bg-pink-600"
+            className="bg-pink-600 text-white px-6 py-2 rounded-full hover:bg-pink-700"
             onClick={() => setIsOpen(false)}
           >
             Donate
